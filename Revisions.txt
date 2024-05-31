@@ -1,0 +1,17 @@
+PerLOG
+
+(c) 2010 A C Brandstetter
+released under GPL v3.0
+
+Revisions:
+
+v0.71
+Fixed the "ALL" systems in the filter, also prettied up the HTML.
+
+v0.70:
+Finished writing the search function, also setup more HTML.
+
+TO DO:
+Write the authentication and user management section.
+Write a better SQL setup script.
+
