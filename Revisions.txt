@@ -1,0 +1,15 @@
+PerLOG
+
+(c) 2024 A C Brandstetter
+released under GPL v3.0
+
+Revisions:
+
+v0.90
+Starting complete rewrite
+
+v0.71
+Fixed the "ALL" systems in the filter, also prettied up the HTML.
+
+v0.70:
+Finished writing the search function, also setup more HTML.

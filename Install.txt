@@ -1,0 +1,21 @@
+PerLOG Installation
+
+
+1) Base requirements
+	-Operating system that supports Perl
+	-MySQL or PostgreSQL database either on the server or another server
+	-Local mail relay either as a server or as an authenticated mail function on this server 
+
+2) Verify the following Perl modules exist on the server
+	Perl DBD  (Including MySQl and PostgreSQL)
+	Perl CGI
+	Perl Net::LDAP
+	Perl Digest::MD5
+	Perl Config::Simple
+	Perl Data::Dumper
+	Perl MIME::Lite
+	Perl Mail::Send
+	Perl Net::SMTP::TLS
+	Perl Encode
+3) Other requirements
+	
